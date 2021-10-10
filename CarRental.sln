@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31717.71
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRental.Business", "CarRental.Business\CarRental.Business.csproj", "{416CC718-5A94-4FEE-B5F7-2BEEEAC2711E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRental.Application", "CarRental.Application\CarRental.Application.csproj", "{1B725821-186A-42B8-A12F-E1DA2C512B36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{416CC718-5A94-4FEE-B5F7-2BEEEAC2711E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{416CC718-5A94-4FEE-B5F7-2BEEEAC2711E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{416CC718-5A94-4FEE-B5F7-2BEEEAC2711E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B725821-186A-42B8-A12F-E1DA2C512B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B725821-186A-42B8-A12F-E1DA2C512B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B725821-186A-42B8-A12F-E1DA2C512B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B725821-186A-42B8-A12F-E1DA2C512B36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

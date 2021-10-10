@@ -2,9 +2,9 @@
 
 namespace CarRental.Business.Entities
 {
-    public class CarRental
+    public class Rental
     {
-        public CarRental(DateTime start, DateTime finish, Vehicle vehicle)
+        public Rental(DateTime start, DateTime finish, Vehicle vehicle)
         {
             Start = start;
             Finish = finish;
