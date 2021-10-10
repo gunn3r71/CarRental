@@ -17,5 +17,10 @@ namespace CarRental.Business.Entities
 
         public Vehicle Vehicle { get; private set; }
         public Invoice Invoice { get; private set; }
+
+        internal void SetInvoice(Invoice invoice)
+        {
+            Invoice = invoice;
+        }
     }
 }
